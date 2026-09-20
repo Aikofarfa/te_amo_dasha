@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Flores amarillas",
+      "hasCanvas": false,
+      "bodyTextLen": 104,
+      "bodyTextHash": "a580a42e29d4a870b1f6e13f9998485c440f9a482cc700d84040107140bc1af8",
+      "bodyTextPrefix": "21 DE SEPTIEMBRE Flores amarillas para ti No pude comprarte un r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Flores amarillas",
+      "hasCanvas": false,
+      "bodyTextLen": 104,
+      "bodyTextHash": "a580a42e29d4a870b1f6e13f9998485c440f9a482cc700d84040107140bc1af8",
+      "bodyTextPrefix": "21 DE SEPTIEMBRE Flores amarillas para ti No pude comprarte un r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
